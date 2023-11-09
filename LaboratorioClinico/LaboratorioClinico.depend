@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1699506476 source:c:\users\user\documents\github\tarea1\laboratorioclinico\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<conio.h>
+	"Libreria1.h"
+	"Informacion.h"
+	"Medicina.h"
+
+1699506476 c:\users\user\documents\github\tarea1\laboratorioclinico\libreria1.h
+	<string>
+	<string.h>
+	<conio.h>
+
+1699506522 c:\users\user\documents\github\tarea1\laboratorioclinico\informacion.h
+	"Informacion.h"
+	"Medicina.h"
+	<string>
+	<string.h>
+	<conio.h>
+
+1699506476 c:\users\user\documents\github\tarea1\laboratorioclinico\medicina.h
+	<string>
+	<string.h>
+	<conio.h>
+
